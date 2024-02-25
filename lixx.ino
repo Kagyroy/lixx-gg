@@ -1,3 +1,14 @@
+/* Readme
+Tags
+{
+  #indev（in development）作成中
+  #unveri（unverified）作ったけど動作未検証
+  #imlat（improve later)　後で改良
+  #devlat（develop later)　後で実装
+  #dellat（delete later） 後で消す
+}
+*/ 
+
 // ↓↓↓↓ Include Files ↓↓↓↓ //
 #include <Arduino.h>
  
