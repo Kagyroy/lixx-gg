@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "ps5",
+			"path": "../../PlatformIO/Projects/ps5"
+		}
+	],
+	"settings": {}
+}
